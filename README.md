@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an API app for Demo Courses developed as a test for PanOpen, 
 
 Things you may want to cover:
 
-* Ruby version
+* RR BackEnd
 
-* System dependencies
+* Database: using postgresql, it requires seeds for population
 
-* Configuration
+* API runs in http://localhost:3000
 
-* Database creation
+* Star API: rails s
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
