@@ -1,15 +1,16 @@
-# README
+# PanOpen - Demo Courses BACKEND
 
-This is an API app for Demo Courses developed as a test for PanOpen, 
+This is an API app for Demo Courses
 
-Things you may want to cover:
+## Front End 
+Open and follow the documentation at [https://github.com/datacris/test-panopen-front](https://github.com/datacris/test-panopen-front) frontend app.
 
-* RR BackEnd
+## `rails s`
 
-* Database: using postgresql, it requires seeds for population
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-* API runs in http://localhost:3000
+## Database
 
-* Star API: rails s
-
+This API is powered by a Postgresql database. Requires seeds for data population
 
